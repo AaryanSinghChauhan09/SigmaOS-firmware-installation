@@ -3,7 +3,7 @@ name = "SigmaOS-firmware-installation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "firmware-installation component"
+description = "Firmware Installation"
 upstream = []
 
 [contract]
